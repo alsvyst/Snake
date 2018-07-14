@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.cell {
+    background-color: darkgray;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 1px;
+}
+
+.enabled {
+    background-color: darkslategrey;
+}
